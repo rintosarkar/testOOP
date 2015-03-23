@@ -1,0 +1,19 @@
+.header, .footer{
+    height:200px;
+    background: #204d74;
+    color:#fff;
+    text-align: center;
+    padding: 60px;
+}
+
+.mainContent{
+    height: 500px;
+    text-align: center;
+    font-size: 20px;
+}
+
+input{
+	padding-left: 10px;
+	margin-left: 10px;
+}
+
